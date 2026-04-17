@@ -247,7 +247,7 @@ export default function Index() {
                 </span>
               </h1>
               <p className="mt-4 text-lg text-gray-300 md:text-xl px-4 max-w-xs mx-auto md:max-w-none">
-                Экспертиза в области ИИ и технологий
+                Технологии и ИИ, которые двигают ваш бизнес вперёд
               </p>
               <Button
                 onClick={scrollToAbout}
